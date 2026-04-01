@@ -1,0 +1,16 @@
+{
+  "name": "Nexus EPUB Reader",
+  "short_name": "Nexus",
+  "description": "A powerful, offline-capable EPUB reader.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM2I4MmY2IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNWYtMS41LTEuNWMtMS0xLTIuNS0xLTMuNSAwTDIgMjB2LTJhMS41IDEuNSAwIDAgMSAxLjUtMS41aDE3QTEuNSAxLjUgMCAwIDEgMjIgMTh2MmwtMS0yYy0xLTEtMi41LTEtMy41IDBsLTEuNSAxLjUiLz48cGF0aCBkPSJNMTIgMjB2LThsLTQtNGgtNGwtNCA0djgiLz48cGF0aCBkPSJNMTIgMjB2LThsNC00aDRsNCA0djgiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}

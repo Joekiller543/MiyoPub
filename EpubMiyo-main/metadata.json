@@ -1,0 +1,5 @@
+{
+  "name": "Nexus EPUB Reader",
+  "description": "A full-stack, hybrid EPUB reading platform with custom backend parsing, structured API delivery, and a responsive React reader interface.",
+  "requestFramePermissions": []
+}
